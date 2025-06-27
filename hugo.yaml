@@ -2,6 +2,8 @@ baseURL: https://example.org/
 languageCode: en-US
 title: MyShinySite
 
+theme: hugo-theme-memento
+
 menus:
   main:
   - name: Home
